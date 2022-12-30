@@ -1,3 +1,3 @@
 # eo-test
 
-Hey
+Hey bot
